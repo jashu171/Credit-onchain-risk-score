@@ -209,7 +209,13 @@ Average USD volume: $1642989.10
 Average consistency: 0.134
 
 Results saved to 'wallet_credit_scores.csv'
-``` 
+```
+
+## Plot Visuallization 
+
+
+![Score Distribution](score_distribution.png)
+
 
 # Contact Details
 
