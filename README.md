@@ -210,3 +210,13 @@ Average consistency: 0.134
 
 Results saved to 'wallet_credit_scores.csv'
 ``` 
+
+# Contact Details
+
+You can reach me through the following channels:
+
+- **Email:** jashwanthboddupally@gmail.com  
+- **Phone:** +91 9010767269  
+- **Portfolio:** [https://jashu171.github.io/portfolio/](https://jashu171.github.io/portfolio/)  
+- **LinkedIn:** [Jashwanth Boddupally](https://www.linkedin.com/in/jashwanth-boddupally-64068b289/)  
+- **GitHub:** [jashu171](https://github.com/jashu171)
